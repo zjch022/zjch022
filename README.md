@@ -9,6 +9,6 @@ A **free browser-local file converter** — images and PDFs are converted on you
 - [HEIC to PNG](https://fileontap.com/heic-to-png/) — free browser-based HEIC to PNG converter
 - [HEIC to JPG](https://fileontap.com/heic-to-jpg/) — free browser-based HEIC to JPG converter
 - [Image compressor](https://fileontap.com/compress-image/) — shrink images without losing quality
-- [Image to PDF](https://fileontap.com/image-to-pdf/) — combine images into a PDF, locally
+- [Free image to PDF converter](https://fileontap.com/pdf-converter/) — combine images into a PDF, locally
 
 📧 Reach me: zjch022@gmail.com
